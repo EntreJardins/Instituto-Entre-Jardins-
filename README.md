@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Entre Jardins</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: #f2f2f2;
-      color: #333;
-    }
-    header {
-      background: #1c1c1c;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    section {
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      background: white;
-      margin-top: 2rem;
-      border-radius: 8px;
-    }
-    h2 {
-      color: #0a0a0a;
-    }
-    footer {
-      text-align: center;
-      padding: 2rem;
-      color: #777;
-    }
-    .contato {
-      background: #e8e8e8;
-      padding: 1rem;
-      border-radius: 6px;
-      margin-top: 1rem;
-    }
-  </style>
-</head>
-<body>
-  <header>
+
     <h1>Entre Jardins</h1>
     <p>Cultura popular e transformação social na zona leste de São Paulo</p>
   </header>
